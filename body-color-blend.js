@@ -10,10 +10,10 @@
    * <body>
    *   <any
    *     data-color-point='255,0,0'
-   *     data-color-point-name='red'></any>
+   *     data-color-point-classname='red'></any>
    *   <any
    *     data-color-point='0,0,255'
-   *     data-color-point-name='blue'></any>
+   *     data-color-point-classname='blue'></any>
    * </body>
    */
   
